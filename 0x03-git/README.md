@@ -1,1 +1,1 @@
-Git lesson number 3
+A repo that exists to practice Git skillsets.
